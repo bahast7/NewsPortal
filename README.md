@@ -13,6 +13,8 @@
 <p align="left"> Email: admin@admin.com </p>
 <p align="left"> Pasword: admin </p>
 
+<p align="left" style="font-size:25px; color:red;"> Just Run Migration And Seed Or Upload Sql File To MySql </p>
+
 ![Screenshot (6)](https://user-images.githubusercontent.com/56611529/129339962-60fe2636-bdb0-4e9e-9cf4-1d0055bbeea1.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/56611529/129340024-66b5b040-f678-4c24-8516-f224ed562187.png)
 ![Screenshot (14)](https://user-images.githubusercontent.com/56611529/129340033-f973c461-f89f-4891-a579-e6fcb998b6a6.png)
